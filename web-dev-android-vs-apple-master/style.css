@@ -1,0 +1,63 @@
+html {
+    background-color: #cabfb6;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    width: 600px;
+    background-color: white;
+    margin: 0 auto;
+    padding: 100px;
+    word-spacing: 5%;
+    line-break: auto;
+    
+}
+
+img {
+    width: 600px;
+    vertical-align: middle;
+}
+
+div {
+    margin: 40px 0px 40px 0px;
+}
+
+.android {
+    background-color: #a4c93b;
+    padding:5px 15px 5px 15px;
+    border-radius: 10px;
+}
+
+.apple {
+    background-color: #b6bcca;
+    padding:5px 15px 5px 15px;
+    border-radius: 10px;
+}
+
+a {
+    background-color:  #c9793b;
+    padding: 2%;
+    border-radius: 10px;
+    height: 30px;
+}
+
+a:hover {
+    color: black !important;
+}
+
+.decision > button {
+    font-size: 20px;
+}
+
+
+
+
+
+
