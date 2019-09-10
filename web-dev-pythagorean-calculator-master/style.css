@@ -1,0 +1,53 @@
+html {
+    background-color: maroon;
+}
+
+body {
+    width: 600px;
+    padding: 30px 75px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 20px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.3px;
+}
+
+img {
+    width: 400px;
+}
+
+h1,h2,h3 {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+div {
+    background-color: rgb(235, 235, 235);
+    padding: 45px;
+    border: 1px solid gray;
+}
+
+h1 {
+    color: #808000;
+}
+
+h2, h3{
+    color: maroon;
+}
+
+.calc_butt {
+    border: 1px solid black;
+    font-variant: small-caps;
+}
+
+button {
+    background-color: #808000;
+    font-variant: small-caps;
+    padding: 10px;
+    font-size: 15px;
+    color: white;
+}
+
+.answer {
+    font-weight: bold;
+    color: maroon;
+}
