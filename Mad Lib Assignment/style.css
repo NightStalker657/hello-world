@@ -1,0 +1,28 @@
+html {
+    background-color: skyblue;
+}
+
+body {
+    margin: 0 auto;
+    background-color: white;
+    width: 600px;
+    padding: 75px;
+    font-family: Verdana;
+}
+
+h1 {
+    color: skyblue;
+    font-variant: small-caps;
+}
+
+button {
+    background-color: rgb(91, 154, 190);
+    padding: 5px 10px;
+    color: white;
+    font-size: 15px;
+}
+
+.para {
+    border: 1px solid orange;
+    padding: 15px;
+}
