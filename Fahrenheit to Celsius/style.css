@@ -1,0 +1,7 @@
+body {
+    margin: 0 auto;
+    width: 600px;
+    border: 2px solid gray;
+    padding: 20px;
+    font-family: 'Roboto Mono', monospace;
+}
