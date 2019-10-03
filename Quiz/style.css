@@ -1,0 +1,29 @@
+html {
+    background-color: red;
+}
+
+body {
+    width: 650px;
+    margin: 0 auto;
+    background-color: aqua;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+div {
+    margin: 20px;
+    background-color: lightblue;
+    padding: 20px
+}
+
+h1 {
+    color: darkblue
+}
+
+p {
+    color: red;
+}
+
+.big {
+    width: 350px;
+}
